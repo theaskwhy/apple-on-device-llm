@@ -1,0 +1,10 @@
+{
+  "name": "apple-on-device-llm",
+  "description": "Use when you want to run Apple's free on-device language model (Foundation Models framework, Apple Intelligence Macs) from the command line for short private text tasks such as hooks, captions or summaries.",
+  "version": "1.0.0",
+  "author": {
+    "name": "The Ask Why Company",
+    "url": "https://github.com/theaskwhy"
+  },
+  "license": "MIT"
+}
